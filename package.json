@@ -1,0 +1,13 @@
+{
+  "name": "instagram-coments",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "instagram-web-api": "^2.2.0"
+  }
+}
